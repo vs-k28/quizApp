@@ -5,13 +5,20 @@
 
 This Project is a quiz game with multiple choice questions covering a variety of subjects. It has a set of questions with four possible answers.It also tracks the player's progress and shows them how many questions they have answered correctly.
 
+![screenshot](screencast/quiz.png)
+
 #### Features:
 
 - Multiple choice questions covering a variety of subjects.
 - Click the submit button to get result.
 - Green color is displayed for each correct selection and red color for wrong.
+
+  ![screenshot](screencast/quiz1.png)
+  
 - Progress tracking
 - Reload button to play again.
+
+  ![screenshot](screencast/quiz2.png)
 
 #### How to play:
 
@@ -22,7 +29,7 @@ This Project is a quiz game with multiple choice questions covering a variety of
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube](https://youtu.be/-UL_EBLghO0).
+Watch the demo video on [YouTube](https://youtu.be/-UL_EBLghO0).
 
 
 ## Tech Stack
