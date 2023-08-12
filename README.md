@@ -22,7 +22,7 @@ This Project is a quiz game with multiple choice questions covering a variety of
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/-UL_EBLghO0).
 
 
 ## Tech Stack
